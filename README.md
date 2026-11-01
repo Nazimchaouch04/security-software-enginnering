@@ -158,7 +158,7 @@ I am particularly interested in building secure applications, identifying vulner
 <img src="https://skillicons.dev/icons?i=python,java,js,php,html,css,bash&theme=dark" />
 
 <br/><br/>
-
+<img src="https://img.shields.io/badge/Insomnia-API_Testing-00FF88?style=for-the-badge&logo=insomnia&logoColor=white&labelColor=101010" />
 ### ⚙️ SOFTWARE ENGINEERING & FRAMEWORKS
 
 <img src="https://skillicons.dev/icons?i=spring,django,react,angular,symfony,nodejs&theme=dark" />
