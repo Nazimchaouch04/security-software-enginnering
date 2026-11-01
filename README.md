@@ -147,6 +147,80 @@ I am particularly interested in building secure applications, identifying vulner
 
 ## `03 / ENGINEERING MINDSET`
 
+---
+
+## `03 / TECHNICAL STACK`
+
+<div align="center">
+
+### 💻 PROGRAMMING LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,java,js,php,html,css,bash&theme=dark" />
+
+<br/><br/>
+
+### ⚙️ SOFTWARE ENGINEERING & FRAMEWORKS
+
+<img src="https://skillicons.dev/icons?i=spring,django,react,angular,symfony,nodejs&theme=dark" />
+
+<br/><br/>
+
+### 🛡️ SECURITY ENGINEERING
+
+<img src="https://img.shields.io/badge/OWASP-Application_Security-00FF88?style=for-the-badge&logo=owasp&logoColor=black&labelColor=101010" />
+<img src="https://img.shields.io/badge/Wazuh-SIEM_%26_XDR-00FF88?style=for-the-badge&logoColor=white&labelColor=101010" />
+<img src="https://img.shields.io/badge/Suricata-Network_IDS%2FIPS-00FF88?style=for-the-badge&logoColor=white&labelColor=101010" />
+<img src="https://img.shields.io/badge/TheHive-Incident_Response-00FF88?style=for-the-badge&logoColor=white&labelColor=101010" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Gitleaks-Secret_Detection-00FF88?style=for-the-badge&logoColor=black&labelColor=101010" />
+<img src="https://img.shields.io/badge/Semgrep-SAST-00FF88?style=for-the-badge&logoColor=black&labelColor=101010" />
+<img src="https://img.shields.io/badge/Burp_Suite-Web_Security-00FF88?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=101010" />
+<img src="https://img.shields.io/badge/Postman-API_Testing-00FF88?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010" />
+
+<br/><br/>
+
+### ☁️ DEVSECOPS & CLOUD INFRASTRUCTURE
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,git,github&theme=dark" />
+
+<br/><br/>
+
+### 🗄️ DATABASES & DATA MANAGEMENT
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
+
+<br/><br/>
+
+### 🖥️ OPERATING SYSTEMS & ENVIRONMENTS
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows,vscode&theme=dark" />
+
+<br/><br/>
+
+### 🧰 ENGINEERING & COLLABORATION TOOLS
+
+<img src="https://skillicons.dev/icons?i=idea,figma,github,git,docker&theme=dark" />
+
+</div>
+
+### SECURITY ENGINEERING TOOLKIT
+
+| Security Area | Technologies |
+|---|---|
+| SIEM & Monitoring | Wazuh |
+| Network Detection | Suricata |
+| Incident Response | TheHive |
+| Static Analysis | Semgrep |
+| Secret Scanning | Gitleaks |
+| Web Security | OWASP, Burp Suite |
+| API Testing | Postman |
+| Container Security | Docker security tooling |
+| CI/CD Security | GitHub Actions |
+
+<sub>Technology stack reflects hands-on projects, development experience and ongoing technical exploration. It does not imply professional mastery of every listed tool.</sub>
+
 ```text
                  SOFTWARE ENGINEERING
                           |
